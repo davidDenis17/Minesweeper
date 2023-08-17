@@ -1,6 +1,5 @@
 <h1>Minesweeper Game</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 Project consists of a Minesweeper Game where the user must uncover all the hidden mines in a record time to be placed on the leaderboard.
